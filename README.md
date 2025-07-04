@@ -15,21 +15,6 @@ A pixel-perfect clone of Spotify's web player UI built using **HTML5**, **CSS3**
 
 ---
 
-## 📁 Folder Structure
-
-spotify-clone/
-│
-├── index.html # Main HTML file
-├── style.css # Stylesheet (link it inside index.html)
-├── assets/ # Folder for icons, images, album covers
-│ ├── logo.png
-│ ├── library_icon.png
-│ ├── card1img.jpeg ...
-│ └── player_icon1.png ...
-└── README.md
-
----
-
 ## ✨ Features
 
 - 🎵 Sidebar with navigation: Home, Search, Library
